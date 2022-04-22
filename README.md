@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ichangai
-I am a software Engineer 
-Currently specializing in JavaScript, PHP and C#.
+I am a Techprenuer first, and software Engineer second. 
+Currently specializing in JavaScript, PHP (Laravel) and Python(Django).
 
 <!---
 ichangai/ichangai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
